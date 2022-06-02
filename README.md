@@ -1,2 +1,2 @@
 # rsschool-cv
-https://sleepwalkerwho.github.io/rsschool-cv/cv
+https://sleepwalkerwho.github.io/rsschool-cv/
